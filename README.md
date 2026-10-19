@@ -37,7 +37,7 @@ German provider, simple updates, multiple protocols.
 ## Free & Paid (Freemium) Providers
 Services offering basic free plans + paid features or upgrades.
 
-### **LockIP** — https://www.lockip.net  
+### **CertaDNS** — https://www.certadns.com  
 **Model:** Free & Paid  
 Clean DDNS interface with API keys, router compatibility, multiple domains, and premium reliability options. Ideal for homelabs and small business setups.
 
